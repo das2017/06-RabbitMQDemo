@@ -1,4 +1,5 @@
 # RabbitMQDemo
+RabbitMQ快速入门及应用
 
 ## 第6章的Demo下载及更多资料：
 + RabbitMQDemo下载地址：https://github.com/das2017/RabbitMQDemo
